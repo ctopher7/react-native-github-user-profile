@@ -39,7 +39,7 @@ export default (props)=>{
                 value={username}
                 onChangeText={setUsername}
                 ref={textInputRef}
-                style={{borderBottomWidth:0.5,borderBottomColor:'grey',width:'80%'}}
+                style={{borderBottomWidth:0.5,borderBottomColor:'grey',width:'80%',color:'black'}}
                 />
                 <TouchableOpacity
                 style={{

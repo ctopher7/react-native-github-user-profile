@@ -65,7 +65,7 @@ export default (props)=>{
                     ref={textInputRef}
                     secureTextEntry={!visible}
                     editable={!loading}
-                    style={{flex:.8}}
+                    style={{flex:.8,color:'black'}}
                     />
                     <TouchableOpacity
                     activeOpacity={.7}

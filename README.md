@@ -1,5 +1,7 @@
 # react-native-github-user-profile
 
+![](ios.gif)
+
 ## project setup
 ```bash
 #clone this repository / download

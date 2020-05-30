@@ -75,7 +75,7 @@ export default connect(mapStateToProps,mapDispatchToProps)((props)=>{
                 placeholderTextColor={'grey'}
                 onChangeText={_onChangeText}
                 ref={textInputRef}
-                style={{borderBottomWidth:0.5,width:'80%',borderBottomColor:'grey',marginHorizontal:30}}
+                style={{borderBottomWidth:0.5,color:'black',width:'80%',borderBottomColor:'grey',marginHorizontal:30}}
                 />
                 <TouchableOpacity
                 style={{
