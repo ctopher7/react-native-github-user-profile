@@ -1,6 +1,6 @@
-react-native-github-user-profile
+# react-native-github-user-profile
 
-project setup
+## project setup
 ```bash
 #clone this repository / download
 yarn #using yarn
@@ -28,6 +28,6 @@ cd app/build/outputs/apk/release
 you should see generated apk named app-release.apk
 
 to build IPA:
-open ios/githubprofile/githubprofile.xcworkspace
-
-go to Products -> Analyze
+- open ios/githubprofile/githubprofile.xcworkspace
+- manage your app signing
+- go to Products -> Analyze
