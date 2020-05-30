@@ -30,4 +30,4 @@ you should see generated apk named app-release.apk
 to build IPA:
 - open ios/githubprofile/githubprofile.xcworkspace
 - manage your app signing
-- go to Products -> Analyze
+- go to Products -> Archive
